@@ -1,3 +1,4 @@
 # Kancolle Information Facility
 
-A java application with tools for the browser game Kantai collection
+KIF stands for Kancolle Information Facility,
+a java application with tools for the browser game Kantai collection
