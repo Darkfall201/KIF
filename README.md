@@ -1,4 +1,4 @@
-# Kancolle Information Facility
+# KC Information Facility
 
-KIF stands for Kancolle Information Facility,
-a java application with tools for the browser game Kantai collection
+KIF stands for KC Information Facility,
+a java application with tools for the browser game KC
